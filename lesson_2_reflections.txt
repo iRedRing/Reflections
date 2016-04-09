@@ -14,6 +14,8 @@ You can use this to verify that you are only adding one logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches will be helpful in adding experimental features or when you are adding a 
+new version of the game by allowing you to have two separate working programs
 
 How do the diagrams help you visualize the branch structure?
 
