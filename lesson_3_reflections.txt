@@ -4,3 +4,7 @@ When you are collaborating with a team and you want them to be able to view your
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You may be working on files while other people are pushing files to the remote repository. You may not want
 the files you are working on to be added to the files on the remote repository until you can review them
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Clones take an entire repository and make a copy of it. Forks do the same thing, but on GitHub remotely.
+A branch is making a different version that is independent of the original commit on the same repository
