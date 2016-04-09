@@ -18,9 +18,14 @@ Branches will be helpful in adding experimental features or when you are adding 
 new version of the game by allowing you to have two separate working programs
 
 How do the diagrams help you visualize the branch structure?
+It lets you see how commits are connected to each other and lets you document how changes have been made
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+It adds the contents of both files together. We represent it by two commits coming together
+because the changes to both files are incorporated into one file that can now see both branches
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+The pro is that it is much simpler and more efficient, the cons are that you can still sometimes
+have things merge or get deleted that did not need to get removed or added
