@@ -17,3 +17,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I would have people use different version names when they make files. It would be more difficult to 
 work on things when two people are working on the file at the same time, however I wouldn't have to
 ensure that everyone knows how to use Git and GitHub
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+You would want to make changes to a separate branch rather than directly in master when you want to either
+experiment with a new feature or you want to add changes that you are not sure you want added to the main file.
+This approach has the benefit of being able to make changes without worrying about messing anything in the
+original file up. On the other hand, making changes directly in master have the benefit of being added
+into the file faster.
