@@ -12,3 +12,8 @@ A branch is making a different version that is independent of the original commi
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Having a copy of the last known state of the remote locally will allow you to be able to more easily
 compare changes made to the remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would have people use different version names when they make files. It would be more difficult to 
+work on things when two people are working on the file at the same time, however I wouldn't have to
+ensure that everyone knows how to use Git and GitHub
